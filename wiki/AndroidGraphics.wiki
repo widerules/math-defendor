@@ -1,15 +1,17 @@
-#summary One-sentence summary of this page.
+#summary Here libraries that we can.
 
-= Introduction =
+
 
 == AndEngine ==
  * pro
-  * one
-  * two 
-* contra
-** fdfsdf
-** fdfddf
+  * very covenient, easy to use
+  * good for 2d
+  * http://blog.burningice.pl/2011/01/03/andengine-in-action/
+ * Contra
+  * not good for 3D
+
 == libgdx== 
-
-
-= Details =
+ * pro
+  * extremely efficient, fast
+ * Contra
+  * low-level code, more complicated coding
